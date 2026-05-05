@@ -9,7 +9,7 @@ That leads to systems for governed payments, delegated authority, verifiable ide
 ## Core Work
 
 **Sardis**  
-Payment OS for the Agent Economy. Policy-gated payment authority, signed attestation envelopes, and non-custodial wallets for AI agents.
+Open-source financial authority layer for AI agents: signed mandates, policy-gated execution, approval paths, revocation, and audit evidence before money moves.
 
 **OSP**  
 Open Service Protocol. A standard for agents to discover, provision, pay for, rotate, and manage developer services through a uniform protocol.
@@ -18,7 +18,7 @@ Open Service Protocol. A standard for agents to discover, provision, pay for, ro
 Decentralized trust, identity, policy, and evidence fabric for autonomous agents.
 
 **Agentbox**  
-2FA for AI agent actions. A local Rust daemon that intercepts dangerous shell commands and routes them through policy and phone approval.
+Local-first action governance for coding agents: PATH shims, allow / approve / block policy, out-of-band approvals, and SQLite audit logs before risky shell actions execute.
 
 **agit**  
 Git-like version control for AI agents: diffable state, revertable actions, encrypted audit trails, and Rust/Python/TypeScript SDKs.
@@ -40,4 +40,3 @@ Rust package manager for Node.js with copy-on-write installs, content-addressed 
 Agents should not be trusted because they are smart. They should be trusted only when their authority is explicit, bounded, revocable, and evidenced.
 
 Model suggests. Policy decides. Evidence persists.
-
