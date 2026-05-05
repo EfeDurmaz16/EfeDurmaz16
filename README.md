@@ -18,7 +18,7 @@ Open Service Protocol. A standard for agents to discover, provision, pay for, ro
 Decentralized trust, identity, policy, and evidence fabric for autonomous agents.
 
 **Agentbox**  
-Local-first action governance for coding agents: PATH shims, allow / approve / block policy, out-of-band approvals, and SQLite audit logs before risky shell actions execute.
+Local-first guarded minipods for coding agents: task-scoped Podman environments with command interception, allow / approve / block policy, out-of-band approvals, and SQLite audit logs.
 
 **agit**  
 Git-like version control for AI agents: diffable state, revertable actions, encrypted audit trails, and Rust/Python/TypeScript SDKs.
